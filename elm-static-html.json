@@ -1,7 +1,7 @@
 {
     "files": {
-        "Main.elm": {
-            "output":"index.html",
+        "Index.elm": {
+            "output":"dist/index.html",
             "viewFunction":"view"
         }
     }
